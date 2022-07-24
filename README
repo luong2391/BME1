@@ -2,4 +2,4 @@ File .csv là dữ liệu dùng để chạy thuật toán.
 File test.ipynb dùng phương pháp tối ưu linear regression bằng cách dùng Gradient descent (Đạo hàm)
 File Dự báo theo STT-Tháng.ipynb dùng trực tiếp mô hình linear regression simple(HQTT đơn) để dự báo theo chuỗi thời gian. Và coi tháng 1 là stt 1 cho đến tháng 2022-1 là stt
 STT 15. 
-File LinearRegression là file tìm phương trình hồi quy
+File LinearRegression là file tìm phương trình hồi quy, dùng dữ liệu file "data"
